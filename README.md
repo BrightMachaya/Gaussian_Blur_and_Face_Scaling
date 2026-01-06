@@ -65,7 +65,7 @@ The manual implementations (Gaussian blur and bicubic interpolation) serve as ex
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Gaussian_Blur_and_Face_Scaling.git
+git clone https://github.com/BrightMachaya/Gaussian_Blur_and_Face_Scaling.git
 cd Gaussian_Blur_and_Face_Scaling
 python ./app.py
 
