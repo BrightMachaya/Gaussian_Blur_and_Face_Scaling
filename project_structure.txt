@@ -1,0 +1,10 @@
+Gaussian_Blur_and_Face_scaling/
+├── app.py                    # Main entry point
+├── app_logic.py             # Main application logic
+├── face_detector.py         # Face detection module
+├── image_processor.py       # Image processing algorithms
+├── gui_builder.py          # GUI construction module
+├── requirements.txt         # Dependencies
+├── README.md               # Project documentation
+└── sample_images                  # Test directory (optional)
+    

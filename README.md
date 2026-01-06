@@ -67,3 +67,5 @@ The manual implementations (Gaussian blur and bicubic interpolation) serve as ex
 ```bash
 git clone https://github.com/yourusername/face-blur-app.git
 cd face-blur-app
+
+* If you find this project useful, please give it a star ⭐ *
